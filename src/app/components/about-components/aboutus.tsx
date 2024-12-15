@@ -33,7 +33,7 @@ const AboutUs = () => {
           height={280}
           width={415}
           className="w-full h-auto object-contain"
-        ></Image>
+        />
       </div>
     </div>
   );
